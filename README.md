@@ -68,7 +68,7 @@ Prepare the server to host your web applications.
        
    - Run the following command to install the generated public key on the server.
    
-          ssh-copy-id -i udacity.pub grader@PUBLIC_IP_ADDRESS
+          ssh-copy-id -i grader.pub grader@PUBLIC_IP_ADDRESS
           
    - Now you are able to log into the remote VM (log into grader) through ssh with the following command:
     
