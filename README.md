@@ -12,7 +12,7 @@ Prepare the server to host your web applications.
 ###### SSH Port:
     2200
 ###### Link to Item Catalog Website:
-   [ItemCatalog](ec2-52-15-243-89.us-east-2.compute.amazonaws.com)
+   [ItemCatalog](http://ec2-52-15-243-89.us-east-2.compute.amazonaws.com/restaurant/)
    
 ## Steps Followed
 
